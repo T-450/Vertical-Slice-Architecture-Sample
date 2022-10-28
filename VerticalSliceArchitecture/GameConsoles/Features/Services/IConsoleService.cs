@@ -1,6 +1,6 @@
 ﻿namespace VerticalSliceArchitecture.Consoles.Features.Services
 {
-    using Domain;
+    using GameConsoles.Models;
 
     public interface IConsoleService
     {

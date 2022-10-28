@@ -1,8 +1,8 @@
 ﻿namespace VerticalSliceArchitecture.Games.Dtos
 {
     using AutoMapper;
-    using Domain;
     using Features.Exceptions;
+    using GameConsoles.Models;
     using MediatR;
     using ServiceManager;
 

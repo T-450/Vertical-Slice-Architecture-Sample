@@ -1,7 +1,7 @@
 ﻿namespace VerticalSliceArchitecture.Consoles.Features.Services
 {
     using Data;
-    using Domain;
+    using GameConsoles.Models;
     using Microsoft.EntityFrameworkCore;
 
     public class ConsoleService : IConsoleService

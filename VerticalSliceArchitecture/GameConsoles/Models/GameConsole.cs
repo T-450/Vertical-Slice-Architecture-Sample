@@ -1,4 +1,4 @@
-﻿namespace VerticalSliceArchitecture.Domain
+﻿namespace VerticalSliceArchitecture.GameConsoles.Models
 {
     using Games.Models;
 

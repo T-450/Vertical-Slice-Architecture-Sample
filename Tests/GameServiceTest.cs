@@ -1,4 +1,5 @@
-﻿using VerticalSliceArchitecture.Games.Features.Services;
+﻿using VerticalSliceArchitecture.GameConsoles.Models;
+using VerticalSliceArchitecture.Games.Features.Services;
 using VerticalSliceArchitecture.Games.Models;
 
 namespace Tests;

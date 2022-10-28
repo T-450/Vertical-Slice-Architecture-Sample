@@ -1,8 +1,8 @@
 ﻿namespace VerticalSliceArchitecture.Consoles.Features
 {
     using AutoMapper;
-    using Domain;
     using Dtos;
+    using GameConsoles.Models;
 
     public class MapperProfile : Profile
     {

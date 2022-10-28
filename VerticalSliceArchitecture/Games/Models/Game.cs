@@ -1,6 +1,6 @@
 ﻿namespace VerticalSliceArchitecture.Games.Models
 {
-    using Domain;
+    using GameConsoles.Models;
 
     public class Game
     {

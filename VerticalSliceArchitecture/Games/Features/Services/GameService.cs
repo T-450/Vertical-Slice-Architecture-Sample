@@ -35,7 +35,7 @@
         public async Task<Game> GetGameAsync(int consoleId, int gameId)
         {
             return await _context.Games
-                .FirstOrDefaultAsync(x => x.ConsoleId == consoleId && x.Id == gameId);
+                .FirstOrDefaultAsync(x => x.ConsoleId == consoleId && x.Id == gameId) ?? throw new InvalidOperationException();
         }
     }
 }

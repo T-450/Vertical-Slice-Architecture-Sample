@@ -1,6 +1,6 @@
 ﻿namespace VerticalSliceArchitecture.Data
 {
-    using Domain;
+    using GameConsoles.Models;
     using Games.Models;
     using Microsoft.EntityFrameworkCore;
 
